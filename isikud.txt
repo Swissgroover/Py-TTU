@@ -1,0 +1,99 @@
+38504050217	Kristjan	Mägi	mees	lahutatud	05.04.1985	39	Müük	diiler	1290	Saue	Tartu mnt 24-1	pillimäng	ei ole	Aprill	Kevad	Jäär
+37607250511	Marko	Erikson	mees	lahutatud	25.07.1976	48	Tootmine	meister	1578	Haapsalu	Sõle 61-19	jalgrattasport	kass	Juuli	Suvi	Lõvi
+48803030178	Mare	Eesmaa	naine	abielus	03.03.1988	36	Majandus	juhataja	3540	Kiili	Mahtra 36-50	golfimäng	kass	Märts	Kevad	Kalad
+48307110230	Tiina	Toomsalu	naine	lesk	11.07.1983	41	Majandus	koristaja	950	Loksa	Pronksi 6a-1	pillimäng	koer	Juuli	Suvi	Vähk
+37810060017	Anton	Meister	mees	lesk	06.10.1978	46	Ladu	juhataja	3270	Pärnu	Liivalaia 32-35	kalapüük	kass	Oktoober	Sügis	Kaalud
+47212180084	Jana	Kaal	naine	lahutatud	18.12.1972	52	Müük	sekretär	1060	Viljandi	Nurga 4-98	raamatu lugemine	kass	Detsember	Talv	Ambur
+50104170615	Eino	Luige	mees	abielus	17.04.2001	23	Tootmine	tööline	1600	Saku	Sõpruse pst 246-40	raamatu lugemine	ei ole	Aprill	Kevad	Jäär
+49509100049	Evi	Sarapik	naine	lesk	10.09.1995	29	Finants	raamatupidaja	1770	Kiili	Pronksi 6a-1	raamatu lugemine	papagoi	September	Sügis	Neitsi
+38504190222	Margus	Roosimägi	mees	abielus	19.04.1985	39	Transport	autojuht	1760	Kallaste	Õismäe tee 96-35	karate	ei ole	Aprill	Kevad	Jäär
+46808020335	Aigi	Härm	naine	abielus	02.08.1968	56	Ost	sekretär	1280	Saku	Sõpruse 3-125	jalgrattasport	hamster	August	Suvi	Lõvi
+48206190557	Sirje	Härm	naine	lesk	19.06.1982	42	Ost	sekretär	1260	Tallinn	Maleva 2b-11	kalapüük	meresiga	Juuni	Suvi	Kaksikud
+38308140585	Aadu	Malva	mees	abielus	14.08.1983	41	Transport	autojuht	1980	Paldiski	Läänemere 62-68	karate	ei ole	August	Suvi	Lõvi
+50010190405	Hanno	Pajusaar	mees	vabaabielus	19.10.2000	24	Tootmine	tööline	1840	Kunda	Linnamäe 25-204	lumelauasõit	kass	Oktoober	Sügis	Kaalud
+47711280456	Selma	Parre	naine	abielus	28.11.1977	47	Ladu	tööline	2070	Vändra	Kalevipoja 11-110	pillimäng	koer	November	Sügis	Ambur
+47506210936	Mirja	Bergmann	naine	abielus	21.06.1975	49	Majandus	koristaja	935	Tartu	Rästa 7/3	käsitöö	kass	Juuni	Suvi	Kaksikud
+39101130124	Kaivo	Berk	mees	lahutatud	13.01.1991	34	Ladu	tööline	1760	Rapla	Sõpruse pst 250-144	lumelauasõit	ei ole	Jaanuar	Talv	Kaljukits
+60009030894	Katy	Veesimaa	naine	abielus	03.09.2000	24	Finants	referent	1870	Tartu	Paasiku 28-3	jalgrattasport	ei ole	September	Sügis	Neitsi
+37204120460	Einar	Ehala	mees	abielus	12.04.1972	52	Tootmine	treial	1270	Jõhvi	Kivimurru 11-10	ratsutamine	papagoi	Aprill	Kevad	Jäär
+38205180673	Jaan	Laubre	mees	lahutatud	18.05.1982	42	Finants	raamatupidaja	1770	Jõhvi	Roheline 3	lumelauasõit	kilpkonn	Mai	Kevad	Sõnn
+36412110930	Arvi	Väljas	mees	lahutatud	11.12.1964	60	Tootmine	tööline	1650	Tallinn	Kibuvitsa 3-3	võrkpall	kass	Detsember	Talv	Ambur
+39604050446	Ando	Nõmmik	mees	vabaabielus	05.04.1996	28	Transport	autojuht	1960	Kunda	Mahtra 25-105	ratsutamine	kilpkonn	Aprill	Kevad	Jäär
+60008240148	Erika	Kasemets	naine	vabaabielus	24.08.2000	24	Müük	sekretär	1450	Põlva	Lasnamäe 50/10-23	sulgpall	koer	August	Suvi	Neitsi
+49009050610	Helen	Aigro	naine	vallaline	05.09.1990	34	Müük	sekretär	1500	Pärnu	Randla 13-619	raamatu lugemine	kass	September	Sügis	Neitsi
+39601050084	Kustav	Salu	mees	abielus	05.01.1996	29	Tootmine	tööline	2160	Jõhvi	Vikerlase 17-87	lumelauasõit	koer	Jaanuar	Talv	Kaljukits
+37108130050	Kaivo	Mets	mees	vabaabielus	13.08.1971	53	Tootmine	meister	1980	Tapa	Virbi 4-132	jalgpall	papagoi	August	Suvi	Lõvi
+36309040214	Kristjan	Jürimäe	mees	lahutatud	04.09.1963	61	Tootmine	lukksepp	2270	Valga	Akadeemia tee 62-75	lumelauasõit	koer	September	Sügis	Neitsi
+48810090988	Malle	Kivioja	naine	lahutatud	09.10.1988	36	Finants	juhataja	3650	Tallinn	Võru 2-125	golfimäng	kass	Oktoober	Sügis	Kaalud
+49303030988	Faina	Kukk	naine	abielus	03.03.1993	31	Müük	sekretär	1370	Loksa	Kärberi 14-2	lumelauasõit	papagoi	Märts	Kevad	Kalad
+36505130719	Jaan	Kaasik	mees	abielus	13.05.1965	59	Transport	autojuht	1790	Rakvere	Pärnu mnt 453A-19	kalapüük	koer	Mai	Kevad	Sõnn
+50006070555	Karl	Agur	mees	vabaabielus	07.06.2000	24	Tootmine	tööline	1572	Tallinn	Ringi 3-18	jalgpall	koer	Juuni	Suvi	Kaksikud
+36604060863	Aadu	Pulk	mees	lesk	06.04.1966	58	Transport	valvur	1000	Kohtla-Järve	Raudla 30A-20	kalapüük	hamster	Aprill	Kevad	Jäär
+36612210549	Andrus	Koort	mees	abielus	21.12.1966	58	Tootmine	treial	1650	Türi	Taime 19-5	ratsutamine	koer	Detsember	Talv	Ambur
+60009040675	Maarja	Ambros	naine	vallaline	04.09.2000	24	Ost	sekretär	1450	Tallinn	Ümera 60-45	pillimäng	hamster	September	Sügis	Neitsi
+36902240722	Aare	Raudsepp	mees	vabaabielus	24.02.1969	55	Müük	diiler	1975	Tallinn	Kärberi 13-8	kergejõustik	meresiga	Veebruar	Talv	Kalad
+39007260696	Einar	Laanepõld	mees	abielus	26.07.1990	34	Ladu	tööline	1750	Kadrina	Tartu mnt 32-22	jalgrattasport	ei ole	Juuli	Suvi	Lõvi
+37102030149	Erki	Arsenov	mees	abielus	03.02.1971	53	Ladu	kompekteerija	2030	Loksa	Retke 22-43	rahvatants	papagoi	Veebruar	Talv	Veevalaja
+47103260243	Evelin	Põld	naine	abielus	26.03.1971	53	Majandus	sekretär	1460	Haapsalu	Võidu 80	rahvatants	kass	Märts	Kevad	Jäär
+47105020007	Ene	Elmik	naine	abielus	02.05.1971	53	Müük	müügijuht	1870	Loksa	Kivimurru 11-10	raamatu lugemine	kilpkonn	Mai	Kevad	Sõnn
+50106180544	Meelis	Petrov	mees	vabaabielus	18.06.2001	23	Tootmine	tööline	1800	Sindi	Raadiku 1-23	sulgpall	koer	Juuni	Suvi	Kaksikud
+37205220288	Madis	Paulus	mees	vabaabielus	22.05.1972	52	Tootmine	tööline	1780	Viljandi	Sõle 5-10	raamatu lugemine	papagoi	Mai	Kevad	Kaksikud
+50211200348	Aarne	Norak	mees	abielus	20.11.2002	22	Tootmine	tööline	1930	Tallinn	Paasiku 4-101	rahvatants	kass	November	Sügis	Skorpion
+47403030624	Virve	Mäesalu	naine	lahutatud	03.03.1974	50	Ost	sekretär	1320	Saku	Sepa 2-3	käsitöö	kass	Märts	Kevad	Kalad
+37408230939	Riho	Kuusk	mees	lesk	23.08.1974	50	Tootmine	tööline	1630	Saku	Mustamäe tee 195-102	kalapüük	meresiga	August	Suvi	Lõvi
+37609120658	Aare	Marmor	mees	abielus	12.09.1976	48	Tootmine	meister	1820	Tamsalu	Arbi 2-155	programmeerimine	koer	September	Sügis	Neitsi
+47712170754	Sirje	Kreen	naine	lahutatud	17.12.1977	47	Tootmine	tööline	1750	Tallinn	Ümera 6-53	käsitöö	koer	Detsember	Talv	Ambur
+37808220891	Reijo	Bauman	mees	abielus	22.08.1978	46	Tootmine	tööline	2050	Tartu	Raadiku 19-73	karate	ei ole	August	Suvi	Lõvi
+47903090504	Erika	Bachmann	naine	abielus	09.03.1979	45	Müük	müügijuht	1750	Tallinn	Kaluri 2-12	korvpall	koer	Märts	Kevad	Kalad
+48006080465	Juulia	Tubin	naine	abielus	08.06.1980	44	Müük	sekretär	1500	Kallaste	Vana-Kalamaja 7-9	käsitöö	ei ole	Juuni	Suvi	Kaksikud
+48105180669	Leida	Jaanus	naine	vabaabielus	18.05.1981	43	Tootmine	tööline	1870	Tartu	Kihnu 16-39	jalgrattasport	kass	Mai	Kevad	Sõnn
+38108200347	Ahti	Tubin	mees	abielus	20.08.1981	43	Tootmine	treial	1790	Kadrina	Vana-Kalamaja 7-9	ratsutamine	ei ole	August	Suvi	Lõvi
+38204220473	Arnold	Norak	mees	vallaline	22.04.1982	42	Tootmine	tööline	1770	Kuressaare	Kivila 16-71	kergejõustik	koer	Aprill	Kevad	Sõnn
+48301060031	Vilma	Eesmaa	naine	abielus	06.01.1983	42	Finants	raamatupidaja	1860	Valga	Ümera 24-5	karate	ei ole	Jaanuar	Talv	Kaljukits
+38305190379	Aarne	Mikson	mees	vallaline	19.05.1983	41	Ost	juhataja	4960	Pärnu	Linnamäe tee 85-21	pillimäng	ei ole	Mai	Kevad	Sõnn
+48306070961	Erna	Eek	naine	abielus	07.06.1983	41	Tootmine	tööline	1835	Narva	Õismäe tee 21-10	jalgpall	koer	Juuni	Suvi	Kaksikud
+60111130833	Heli	Lind	naine	abielus	13.11.2001	23	Tootmine	tööline	1700	Saue	Järveotsa tee 43-15	raamatu lugemine	kass	November	Sügis	Skorpion
+48401080820	Aasa	Randla	naine	abielus	08.01.1984	41	Majandus	koristaja	920	Kunda	Telliskivi 52a-1	käsitöö	hamster	Jaanuar	Talv	Kaljukits
+39402070214	Jaan	Noormets	mees	lahutatud	07.02.1994	30	Müük	diiler	1860	Tallinn	Kivila 18-69	võrkpall	koer	Veebruar	Talv	Veevalaja
+38403010526	Erki	Lepiksoo	mees	vabaabielus	01.03.1984	40	Tootmine	treial	1980	Tapa	Sütiste 39-64	käsitöö	koer	Märts	Kevad	Kalad
+38602110722	Priit	Burmeister	mees	lahutatud	11.02.1986	38	Transport	autojuht	1850	Jõgeva	Mustamäe tee 165-58	programmeerimine	hamster	Veebruar	Talv	Veevalaja
+38804250911	Ahto	Danilov	mees	vallaline	25.04.1988	36	Transport	autojuht	1770	Paide	Linnamäe tee 85-21	raamatu lugemine	ei ole	Aprill	Kevad	Sõnn
+38112150956	Reijo	Muld	mees	vabaabielus	15.12.1981	43	Tootmine	tööline	1490	Haapsalu	Liinamäe 35-37	rahvatants	kass	Detsember	Talv	Ambur
+48211240925	Malle	Ligi	naine	abielus	24.11.1982	42	Finants	jurist	2570	Pärnu	Lõime 6-4	pillimäng	koer	November	Sügis	Ambur
+37303130136	Aarne	Oks	mees	vallaline	13.03.1973	51	Transport	autojuht	1850	Paldiski	Liiva 7a-3	raamatu lugemine	ei ole	Märts	Kevad	Kalad
+48411130888	Faina	Lepp	naine	lahutatud	13.11.1984	40	Finants	jurist	2850	Paide	Vikerlase 13-216	võrkpall	madu	November	Sügis	Skorpion
+36506270104	Reijo	Müürsepp	mees	lesk	27.06.1965	59	Tootmine	lukksepp	1775	Vändra	Maleva 2b-11	rahvatants	kass	Juuni	Suvi	Vähk
+60001210234	Malle	Põldmaa	naine	lahutatud	21.01.2000	25	Tootmine	tööline	1900	Kallaste	Paekaare 62-53	rahvatants	kass	Jaanuar	Talv	Veevalaja
+60207080463	Irma	Piirsalu	naine	vabaabielus	08.07.2002	22	Tootmine	tööline	1850	Keila	Raadiku 1-23	ratsutamine	koer	Juuli	Suvi	Vähk
+37309010485	Argo	Salu	mees	lesk	01.09.1973	51	Tootmine	tööline	1760	Jõgeva	Keskuse 14-44	kalapüük	koer	September	Sügis	Neitsi
+47704030496	Kristel	Astok	naine	abielus	03.04.1977	47	Finants	raamatupidaja	1874	Kiili	Kolde 88-79	programmeerimine	koer	Aprill	Kevad	Jäär
+50310100356	Madis	Maasalu	mees	abielus	10.10.2003	21	Tootmine	tööline	1580	Sindi	Ehte 5-28	rahvatants	ei ole	Oktoober	Sügis	Kaalud
+39811080030	Arnold	Merilaid	mees	lahutatud	08.11.1998	26	Transport	autojuht	1850	Keila	Pae 60-13	käsitöö	kass	November	Sügis	Skorpion
+50502140289	Olav	Berk	mees	vallaline	14.02.2005	19	Tootmine	tööline	1570	Viljandi	Paekaare 58-51	kergejõustik	koer	Veebruar	Talv	Veevalaja
+39902200391	Margus	Maasalu	mees	abielus	20.02.1999	25	Tootmine	tööline	1670	Vändra	Kagu 13-4	lumelauasõit	ei ole	Veebruar	Talv	Kalad
+60003030319	Hilja	Raid	naine	abielus	03.03.2000	24	Müük	sekretär	1860	Tartu	Võru 2-122	võrkpall	ei ole	Märts	Kevad	Kalad
+48407080393	Tiina	Markus	naine	abielus	08.07.1984	40	Ladu	tööline	1750	Kohtla-Järve	Mustamäe tee 195-102	jalgrattasport	kass	Juuli	Suvi	Vähk
+37504170054	Kaspar	Veesimaa	mees	abielus	17.04.1975	49	Tootmine	tööline	1870	Tapa	Vana-Kalamaja 20-16a	rahvatants	koer	Aprill	Kevad	Jäär
+36705150941	Boris	Küünemäe	mees	vabaabielus	15.05.1967	57	Transport	autojuht	1970	Saue	Kopli 65/2-5	karate	hamster	Mai	Kevad	Sõnn
+39809190988	Meelis	Kalju	mees	vallaline	19.09.1998	26	Ladu	tööline	1770	Jõgeva	Vuti 67	võrkpall	kass	September	Sügis	Neitsi
+60109170171	Airi	Põld	naine	lahutatud	17.09.2001	23	Ladu	kompekteerija	1760	Paldiski	Nisu 5-7	ratsutamine	koer	September	Sügis	Neitsi
+36909210954	Erno	Salumets	mees	lahutatud	21.09.1969	55	Müük	juhataja	3650	Kuressaare	Pronksi 6a-1	sulgpall	papagoi	September	Sügis	Neitsi
+39908050804	Aadu	Heinlo	mees	vabaabielus	05.08.1999	25	Tootmine	lukksepp	1860	Kuressaare	Odra 4-1	käsitöö	koer	August	Suvi	Lõvi
+47105130963	Ene	Burmeister	naine	lahutatud	13.05.1971	53	Finants	raamatupidaja	1070	Paide	Liivalaia 32-35	jalgrattasport	meresiga	Mai	Kevad	Sõnn
+37110010868	Tarmo	Müller	mees	vabaabielus	01.10.1971	53	Müük	müügijuht	2080	Tõrva	Maleva 2b-11	karate	madu	Oktoober	Sügis	Kaalud
+38702200902	Reijo	Okspuu	mees	vabaabielus	20.02.1987	37	Müük	diiler	1800	Kadrina	Pakase 47	programmeerimine	kass	Veebruar	Talv	Kalad
+37210060467	Hanno	Pedak	mees	lesk	06.10.1972	52	Transport	autojuht	1870	Tõrva	Läänemere tee 17-216	pillimäng	papagoi	Oktoober	Sügis	Kaalud
+39310070151	Paul	Naaber	mees	abielus	07.10.1993	31	Transport	autojuht	1750	Tamsalu	Mustamäe tee 195-48	programmeerimine	koer	Oktoober	Sügis	Kaalud
+38210240441	Hendrik	Kanter	mees	abielus	24.10.1982	42	Tootmine	juhataja	3270	Võru	Aegviidu Piibe mnt 44-1	golfimäng	ei ole	Oktoober	Sügis	Skorpion
+49211150090	Kersti	Miller	naine	lahutatud	15.11.1992	32	Tootmine	tööline	1850	Kunda	Langu 5-27	kergejõustik	kass	November	Sügis	Skorpion
+48402150417	Tiina	Rajamäe	naine	lahutatud	15.02.1984	40	Transport	dispetser	1670	Viljandi	Arbu 5-24	programmeerimine	ei ole	Veebruar	Talv	Veevalaja
+37411270496	Karl	Salu	mees	lahutatud	27.11.1974	50	Ladu	dispetser	2000	Rakvere	Sepa 2-3	kalapüük	kass	November	Sügis	Ambur
+50308150058	Raivo	Lokk	mees	abielus	15.08.2003	21	Tootmine	tööline	1970	Türi	Koorti 18-24	sulgpall	hamster	August	Suvi	Lõvi
+37705040659	Reijo	Meigas	mees	abielus	04.05.1977	47	Ladu	tööline	1160	Rapla	Ehitajate tee 68-21	rahvatants	koer	Mai	Kevad	Sõnn
+48107150516	Kristiina	Oks	naine	vallaline	15.07.1981	43	Transport	dispetser	1940	Kohtla-Järve	Koidu 10-9	lumelauasõit	ei ole	Juuli	Suvi	Vähk
+38205090295	Aadu	Elson	mees	abielus	09.05.1982	42	Tootmine	tööline	1720	Haapsalu	Puhangu 4-14	lumelauasõit	kass	Mai	Kevad	Sõnn
+60109130038	Annika	Paju	naine	vallaline	13.09.2001	23	Majandus	sekretär	1660	Tallinn	Ehitajate tee 74-32	kergejõustik	kass	September	Sügis	Neitsi
+60208230166	Laine	Eek	naine	vallaline	23.08.2002	22	Majandus	sekretär	1770	Tallinn	Õismäe tee 105-44	käsitöö	ei ole	August	Suvi	Lõvi
+38310210529	Eevald	Parts	mees	abielus	21.10.1983	41	Tootmine	lukksepp	1790	Tamsalu	Sõle 61-19	lumelauasõit	ei ole	Oktoober	Sügis	Kaalud
+48405030944	Elvi	Berk	naine	vabaabielus	03.05.1984	40	Transport	dispetser	1670	Rakvere	Sõpruse 3-125	kalapüük	kilpkonn	Mai	Kevad	Sõnn
+38901180808	Erki	Ainsaar	mees	abielus	18.01.1989	36	Tootmine	lukksepp	1850	Valga	Raudla 30a-20	kergejõustik	kass	Jaanuar	Talv	Kaljukits
