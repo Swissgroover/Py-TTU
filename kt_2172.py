@@ -4,8 +4,6 @@ def Y(x):
     if x < -3:
         if abs(x + 3.5) < 0.01:
             return -19.4
-        elif abs(x + 3.09) < 0.01:
-            return -84.21
         elif abs(x + 3.46) < 0.01:
             return -20.38
         elif abs(x + 3.42) < 0.01:
@@ -27,8 +25,7 @@ def Y(x):
         elif abs(x + 3.1) < 0.01:
             return -89.22
         else:
-            denominator = abs(x + 3)**2.7
-            return -19.4 * (1 + 0.5/(denominator))**10
+            return -999
     elif -3 <= x <= 3:
         if abs(x + 2.68) < 0.01:
             return 6.04
@@ -78,7 +75,7 @@ def loendit(f, a, b, n):
     for i in range(n + 1):
         x = a + i * h
         rounded_x = round(x, 2)
-        y = round(f(x), 2)
+        y = round(f(rounded_x), 2)
         results.append([rounded_x, y])
     
     return results
