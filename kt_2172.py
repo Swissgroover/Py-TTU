@@ -93,6 +93,4 @@ def peaprogramm():
         
     except ValueError as e:
         print(f"Viga: {e}")
-
-if __name__ == "__main__":
     peaprogramm()
