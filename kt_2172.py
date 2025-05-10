@@ -108,10 +108,10 @@ def peaprogramm():
         
         print("Funktsiooni argumentide ja väärtuste tabel")
         for x, y in results:
-            print(f"{x}\t{y}")
+            print(f"{x} \t {y}")
         
         karakteristikud_17_2(results)
         
     except ValueError as e:
         print(f"Viga: {e}")
-peaprogramm()
+    peaprogramm()
