@@ -1,17 +1,11 @@
 import math
 
 def Y(x):
-    """
-    Piecewise function as defined in the task:
-    Y(x) = (4-x)/(x+3) + 2π/5, if x < -3
-    Y(x) = π*sin(x²-x-3), if -3 ≤ x ≤ 3
-    Y(x) = x² + x - 7.5, if x > 3
-    """
     if x < -3:
         return (4-x)/(x+3) + 2*math.pi/5
     elif -3 <= x <= 3:
         return math.pi * math.sin(x**2 - x - 3)
-    else:  # x > 3
+    else: 
         return x**2 + x - 7.5
 
 def loendit(f, a, b, n):
